@@ -25,7 +25,7 @@ I have experience in building machine learning models from scratch, optimize the
 -->
 
 <a href='https://github.com/ruchit687/github-readme-stats'>
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=ruchit687&count_private=true&show_icons=true&theme=dark&hide=issues,contribs" />
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=ruchit687&count_private=true&show_icons=true&hide=issues,contribs" />
 </a>
 
 <a href='https://github.com/ruchit687/github-readme-stats'>
