@@ -17,8 +17,8 @@ My name is Ruchit, I am a Computer Science Graduate currently learning and pract
 I am passionate about **data-driven technologies**. In my spare time I love to travel and explore hidden places.
 
 - 💬 Ask me about ***Computer Science & Machine Learning...***
-- 🌱 I’m currently exploring & working on **Explainable AI, Creative AI and Emotional AI.**
-- 👯 I’m looking to collaborate on core *Machine Learning & Deep Learning research projects.*
+- 🌱 I’m currently exploring & working on ***Explainable AI, Creative AI and Emotional AI.***
+- 👯 I’m looking to collaborate on core ***Machine Learning & Deep Learning research projects.***
 - 📫 How to reach me: ruchitporwal@gmail.com
 
 I have experience in building machine learning models from scratch, optimize them and also run diagnostics on problems. I share my knowledge through different platforms:
