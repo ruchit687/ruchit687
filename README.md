@@ -21,7 +21,7 @@ I am passionate about data-driven technologies. In my spare time I love to trave
 
 <a href='https://github.com/ruchit687/github-readme-stats'>
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchit687&layout=compact&hide=Jupyter%20Notebook" />
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=ruchit687&count_private=true&show_icons=true&hide=issues,contribs" />
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=ruchit687&custom_title=Ruchit's%20Github%20Stats&count_private=true&show_icons=true&hide=issues,contribs" />
 </a>
 
 I have experience in building machine learning models from scratch, optimize them and also run diagnostics on problems. I share my knowledge through different platforms:
