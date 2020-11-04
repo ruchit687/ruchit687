@@ -30,7 +30,7 @@ I have experience in building machine learning models from scratch, optimize the
 </p>
 
 <a href='https://github.com/ruchit687/github-readme-stats'>
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchit687&layout=compact&hide=Jupyter%20Notebook&theme=yeblu" />
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=ruchit687&custom_title=Ruchit's%20Github%20Stats&count_private=true&show_icons=true&hide=issues,contribs&theme=yeblu" />
+  <img align='center' src="https://github-readme-stats.ruchit687.vercel.app/top-langs/?username=ruchit687&layout=compact&hide=Jupyter%20Notebook&theme=yeblu" />
+  <img align='center' src="https://github-readme-stats.ruchit687.vercel.app/api?username=ruchit687&custom_title=Ruchit's%20Github%20Stats&count_private=true&show_icons=true&hide=issues,contribs&theme=yeblu" />
 </a>
 
