@@ -3,16 +3,6 @@
 <!--
 **ruchit687/ruchit687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!-- ![inspiringbrains] (https://github.com/coding-ai/coding-ai/blob/master/IMG_4545.JPG) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ruchit687&repo=)](https://github.com/ruchit687/github-readme-stats)
-<a href='https://github.com/ruchit687/github-readme-stats'>
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=ruchit687&count_private=true&show_icons=true&hide=issues,contribs" />
-</a>
-<img align='right' height='200px' src="https://github.com/ruchit687/ruchit687/blob/main/NEWLogo.png" />
--->
-
-
-
 
 My name is Ruchit, I am a Computer Science Graduate currently learning and practicing Machine Learning.
 I am passionate about **data-driven technologies**. In my spare time I love to travel and explore hidden places.
@@ -30,7 +20,7 @@ I have experience in building machine learning models from scratch, optimize the
 </p>
 
 <a href='https://github.com/ruchit687/github-readme-stats'>
-  <img align='center' src="https://github-readme-stats.ruchit687.vercel.app/top-langs/?username=ruchit687&layout=compact&hide=Jupyter%20Notebook&theme=yeblu" />
+  <img align='center' src="https://github-readme-stats.ruchit687.vercel.app/api/top-langs/?username=ruchit687&layout=compact&hide=Jupyter%20Notebook&theme=yeblu" />
   <img align='center' src="https://github-readme-stats.ruchit687.vercel.app/api?username=ruchit687&custom_title=Ruchit's%20Github%20Stats&count_private=true&show_icons=true&hide=issues,contribs&theme=yeblu" />
 </a>
 
